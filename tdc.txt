@@ -1,1 +1,1 @@
-file này nằm ở nhánh main, không nằm nhánh newbranch, ok chưa
+file này nằm ở nhánh main
