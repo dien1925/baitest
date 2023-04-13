@@ -1,1 +1,2 @@
 đây là file mới tạo của newbranch
+nằm ở nhánh newbranch
